@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">User SP</string>
+    <string name="sp_first_time">first time</string>
+    <string name="fr_dialog_title">Registro de Usuario</string>
+    <string name="ft_dialog_confirm">"Confirmar "</string>
+    <string name="helper_username">Required</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="username">username</string>
+</resources>
